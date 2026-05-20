@@ -13,3 +13,5 @@ The SL2.1s sits at the center of the board, managing all four downstream ports. 
 
 <img width="915" height="491" alt="Screenshot 2026-05-20 175406" src="https://github.com/user-attachments/assets/db318261-9cb8-4b0d-9e2e-a1e5edb2e247" />
 <img width="1342" height="752" alt="Screenshot 2026-05-20 185521" src="https://github.com/user-attachments/assets/2ed08da9-ef4e-4b29-a90c-7599e91eccf5" />
+<img width="1415" height="527" alt="Screenshot 2026-05-20 192821" src="https://github.com/user-attachments/assets/361b7144-1ae9-45c3-8fa9-0f8663c3d198" />
+
