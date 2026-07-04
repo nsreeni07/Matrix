@@ -11,7 +11,7 @@ Matrix is a compact 4-port USB hub built around the SL2.1s hub controller IC. It
 How It All Fits Together:
 The SL2.1s sits at the center of the board, managing all four downstream ports. Each port has its own bypass capacitors for clean power delivery. The Type-C ports include CC resistors for proper device detection, and the whole board runs off a single 5V input.
 
-EasyEDA Link: [https://u.easyeda.com/join?type=project&key=9fca0dc9f3362a5b13373e54d5baca81&inviter=d3b99817975a47828660b022db7e3e07](url)
+OsHWLab Link: [ https://oshwlab.com/nsreeni2010/project_gsxlcwqu](url)
 
 <img width="915" height="491" alt="Screenshot 2026-05-20 175406" src="https://github.com/user-attachments/assets/db318261-9cb8-4b0d-9e2e-a1e5edb2e247" />
 <img width="1342" height="752" alt="Screenshot 2026-05-20 185521" src="https://github.com/user-attachments/assets/2ed08da9-ef4e-4b29-a90c-7599e91eccf5" />
