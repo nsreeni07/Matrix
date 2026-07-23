@@ -12,7 +12,7 @@ How It All Fits Together:
 The SL2.1s sits at the center of the board, managing all four downstream ports. Each port has its own bypass capacitors for clean power delivery. The Type-C ports include CC resistors for proper device detection, and the whole board runs off a single 5V input.
 
 OsHWLab Link: [ https://oshwlab.com/nsreeni2010/project_gsxlcwqu](url)
-Onshape Link:https://cad.onshape.com/documents/3783127177d54cf38e8519bb/w/2631282a0331b946c69694fd/e/d2c931efe47d727a7972d322?renderMode=0&uiState=6a617c8540fbac819ff01cd8
+Onshape Link: https://cad.onshape.com/documents/3783127177d54cf38e8519bb/w/2631282a0331b946c69694fd/e/d2c931efe47d727a7972d322?renderMode=0&uiState=6a617cc5b15500be12a7cbbd
 
 <img width="915" height="491" alt="Screenshot 2026-05-20 175406" src="https://github.com/user-attachments/assets/db318261-9cb8-4b0d-9e2e-a1e5edb2e247" />
 <img width="1342" height="752" alt="Screenshot 2026-05-20 185521" src="https://github.com/user-attachments/assets/2ed08da9-ef4e-4b29-a90c-7599e91eccf5" />
